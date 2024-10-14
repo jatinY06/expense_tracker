@@ -1,0 +1,40 @@
+.border {
+    padding: 20px;
+    background-color: #333;
+    border-radius: 10px;
+}
+
+.new-expene {
+    margin-bottom: 10px;
+}
+
+.new-expene input {
+    padding: 8px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    background-color: #555;
+    color: white;
+
+}
+
+.new-expene label {
+    margin-bottom: 5px;
+    display: block;
+    color: #ccc;
+
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #008cba;
+    /* color: white; */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #333;
+    color: #fff;
+}
